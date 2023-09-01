@@ -1,0 +1,2 @@
+# CampoMinado
+#cp gondo python
